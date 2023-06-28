@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqPkJlxeHnwCL5d1qP0CbBo3octkgOqcFQxwLGmjcM7vYuUGaQR+W/bcE6L6oX2YOGlDWh+dmV8knBa+OkM8eQ==",
+  "success": true,
+  "projectFilePath": "/Users/brendankariniemi/Desktop/Code/Projects/CollegeSchedule/CollegeSchedule/CollegeSchedule.csproj",
+  "expectedPackageFiles": [
+    "/Users/brendankariniemi/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.1/microsoft.aspnetcore.spaproxy.7.0.1.nupkg.sha512",
+    "/Users/brendankariniemi/.nuget/packages/microsoft.data.sqlite/8.0.0-preview.2.23128.3/microsoft.data.sqlite.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/brendankariniemi/.nuget/packages/microsoft.data.sqlite.core/8.0.0-preview.2.23128.3/microsoft.data.sqlite.core.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/brendankariniemi/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/Users/brendankariniemi/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/Users/brendankariniemi/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/Users/brendankariniemi/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/Users/brendankariniemi/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

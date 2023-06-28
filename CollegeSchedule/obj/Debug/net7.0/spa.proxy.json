@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44486",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/brendankariniemi/Desktop/Code/Projects/CollegeSchedule/CollegeSchedule/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

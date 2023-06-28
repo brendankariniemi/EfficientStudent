@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "IVIEFKkgKlWnKHh1od5wjK8uZiu++V72MrA5tdGpl8M=",
+  "Source": "CollegeSchedule",
+  "BasePath": "_content/CollegeSchedule",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CollegeSchedule/wwwroot",
+      "Source": "CollegeSchedule",
+      "ContentRoot": "/Users/brendankariniemi/Desktop/Code/Projects/CollegeSchedule/CollegeSchedule/wwwroot/",
+      "BasePath": "_content/CollegeSchedule",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/brendankariniemi/Desktop/Code/Projects/CollegeSchedule/CollegeSchedule/wwwroot/favicon.ico",
+      "SourceId": "CollegeSchedule",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/brendankariniemi/Desktop/Code/Projects/CollegeSchedule/CollegeSchedule/wwwroot/",
+      "BasePath": "_content/CollegeSchedule",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}

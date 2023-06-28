@@ -1,0 +1,35 @@
+<div class="pomodoro">
+  <div class="pomodoro-mode-bar">
+    <button [ngClass]="this.currentMode == 'Pomodoro' ? 'mode-bar-button-selected' : 'mode-bar-button'"
+            (click)="processModeClick('Pomodoro')">Pomodoro</button>
+    <button [ngClass]="this.currentMode == 'ShortBreak' ? 'mode-bar-button-selected' : 'mode-bar-button'"
+            (click)="processModeClick('ShortBreak')">Short Break</button>
+    <button [ngClass]="this.currentMode == 'LongBreak' ? 'mode-bar-button-selected' : 'mode-bar-button'"
+            (click)="processModeClick('LongBreak')">Long Break</button>
+  </div>
+  <svg class="pomodoro-ring">
+    <circle
+      class="progress-ring__circle"
+      stroke-width="8"
+    />
+    <text
+      x="50%"
+      y="50%"
+      text-anchor="middle"
+      font-size="50px"
+      dy=".3em"
+    >
+      {{display}}
+    </text>
+    <text
+      x="50%"
+      y="75%"
+      text-anchor="middle"
+      font-size="25px"
+      dy=".3em"
+      (click)="processTimerClick()"
+    >
+      {{buttonDisplay}}
+    </text>
+  </svg>
+</div>

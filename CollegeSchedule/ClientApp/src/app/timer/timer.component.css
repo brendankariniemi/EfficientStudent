@@ -1,0 +1,57 @@
+
+.pomodoro {
+  padding: 20px;
+  border-style: solid;
+  border-color: burlywood;
+}
+
+.pomodoro-ring {
+  border: 16px solid burlywood; /* Light Grey */
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+
+.pomodoro {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pomodoro-mode-bar {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.mode-bar-button {
+  display: inline-block;
+  outline: 0;
+  border: none;
+  cursor: pointer;
+  padding: 12px 17px;
+  border-radius: 50px;
+  background-color: #2222220d;
+  color: #222;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 3px;
+}
+
+.mode-bar-button:hover {
+  background-color: #2222221a;
+}
+
+.mode-bar-button-selected {
+  display: inline-block;
+  outline: 0;
+  border: none;
+  cursor: pointer;
+  padding: 12px 17px;
+  border-radius: 50px;
+  background-color: burlywood;
+  color: #222;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 3px;
+}

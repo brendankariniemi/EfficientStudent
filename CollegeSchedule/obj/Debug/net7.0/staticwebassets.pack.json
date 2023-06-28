@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/brendankariniemi/Desktop/Code/Projects/CollegeSchedule/CollegeSchedule/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.CollegeSchedule.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.CollegeSchedule.props",
+      "PackagePath": "build\\CollegeSchedule.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CollegeSchedule.props",
+      "PackagePath": "buildMultiTargeting\\CollegeSchedule.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CollegeSchedule.props",
+      "PackagePath": "buildTransitive\\CollegeSchedule.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
